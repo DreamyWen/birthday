@@ -26,7 +26,14 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的招财无敌小仙女": "./imgs/xiaokeai.png",
+        "心爱的招财无敌小仙女": "./imgs/xiaokeai.jpg",
+        "今天是你的生日":"./imgs/today.jpg",
+        "去年的生日": "./imgs/last_year.jpg",
+        "这是我们在一起的": "./imgs/together.jpg",
+        "第三个生日了哦": "./imgs/3rd.jpg",
+        "还记得在牛排家吃的呢": "./imgs/niupai.jpg",
+        "祝可爱的小仙女": "./imgs/keai.jpg",
+        "一定会实现的": "./imgs/wish.jpg"
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
